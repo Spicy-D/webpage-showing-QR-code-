@@ -1,0 +1,35 @@
+body{
+  background-color: hsl(220, 15%, 55%);
+text-align: center;
+  font-family: 'Outfit', sans-serif;
+  display: flex;
+
+ align-items: center;
+ justify-content: center;
+
+}
+.QR-code{
+
+  border-radius: 10px;
+background-color:  hsl(0, 0%, 100%);
+width:220px;
+
+}
+img{
+  border-radius: 10px;
+  width: 200px;
+  margin:10px auto ;
+}
+
+.qr-head{
+  font-weight: 700;
+  width: 180px;
+  margin: 10px auto;
+}
+.qr-body{
+  font-weight: 400;
+  font-size: 10px;
+  padding-bottom: 20px;
+  width: 160px;
+  margin: auto;
+}
